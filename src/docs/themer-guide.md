@@ -1,5 +1,7 @@
 **Note:** Reading the [Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev) and using the [Theme maker site](https://aliucord.com/theme-maker) can help you make your own theme.
 
+**If the theme you are using doesn't work for you, either you are not using the right transparency mode, you are not using theme mirror from `#theme-support` pins (this only affects image background), or Themer is broken on your end (can happen depending on Android version/OS)**
+
 ## How to set a custom background
 
 First of all, you need to enable transparency in Themer settings (chat, chat & settings). If you want full transparency, you need to use the template found below.
