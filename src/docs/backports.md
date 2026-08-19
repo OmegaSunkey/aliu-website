@@ -26,7 +26,7 @@
 |Devices page|[Sessions](https://github.com/wingio/plugins/raw/builds/Sessions.zip) 💣|
 |Webhooks|[EditWebhooks](https://github.com/c10udburst-discord/aliucord-plugins/raw/builds/EditWebhooks.zip)|
 |Sorted searching|[Scout](https://github.com/LavaDesu/Awoocord/raw/builds/Scout.zip)|
-|New Discord markdown|[MarkdownFix](https://github.com/yutaplug/yutaplugins/raw/builds/MarkdownFix.zip)|
+|New Discord markdown|[MoreHighlight](https://github.com/wingio/plugins/raw/builds/MoreHighlight.zip)|
 |Connection icons|[UnknownConnectionIcons](https://github.com/nyakowint/AliuPlugins/raw/builds/UnknownConnectionIcons.zip)|
 |Copy message link|[MessageLinkContext](https://github.com/wingio/plugins/raw/builds/MessageLinkContext.zip)|
 |Delete embed|[DeleteEmbeds](https://github.com/c10udburst-discord/aliucord-plugins/raw/builds/DeleteEmbeds.zip)|
@@ -68,6 +68,10 @@
 |Activities V2|[ActivitiesV2](https://github.com/secp192k1/Aliucord-Plugins/raw/builds/ActivitiesV2.zip)|
 |QR login|[QRCodeLogin](https://github.com/secp192k1/Aliucord-Plugins/raw/21770595a84b0961253155f0806e17d0f97db609/QRCodeLogin.zip)|
 |Spoilers|[FixSpoilers](https://github.com/mantikafasiCorp/VibePlugins/raw/builds/FixSpoilers.zip)|
+|Larger File Uploads guild boost perk|[LargerUploadsPerk](https://github.com/secp192k1/Aliucord-Plugins/raw/builds/LargerUploadsPerk.zip)|
+|Keep video playing when scrolling|[KeepVideoPlaying](https://github.com/secp192k1/Aliucord-Plugins/raw/builds/KeepVideoPlaying.zip)|
+|Holding servers|[ServerIconLongPressFix](https://github.com/bappitybup/aliucord-plugins/raw/builds/ServerIconLongPressFix.zip)|
+|DM pins|[DMPins](https://github.com/bappitybup/aliucord-plugins/raw/builds/DMPins.zip)|
 
 ## Built-in to Aliucord
 
