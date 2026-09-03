@@ -8,7 +8,7 @@ custom_css = 'css/table.css'
 
 Compared to the React Native client.
 
-If a feature isn't here, see the [Backports](/documentation/#backports) page in case it already exists as a plugin or it's already built-in.
+If a feature isn't here, see the [Backports](/docs/backports) page in case it already exists as a plugin or it's already built-in.
 
 |Feature|Notes|
 |-|-|
