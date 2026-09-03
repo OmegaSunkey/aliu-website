@@ -2,7 +2,7 @@
 date = '2026-08-30T16:20:43-05:00'
 draft = false
 title = 'Themer guide'
-weight = 11
+weight = 12
 +++
 
 **Note:** Reading the [Documentation](https://github.com/Aliucord/documentation/blob/main/theme-dev/README.md) and using the [Theme maker site](https://backend.aliucord.com/theme-maker) can help you make your own theme.
