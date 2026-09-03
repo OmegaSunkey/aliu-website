@@ -34,24 +34,24 @@ In case it didnt work you may want to try to do the following:
 4. Scroll until you see strings with "(i)" next to them.
 5. Make each of these strings transparent by clicking on the color and sliding the transparency bar.
 6. Make sure these listed strings are transparent:
-    - primary
-        - primary_500
-        - primary_600
-        - primary_630
-        - primary_660
-        - primary_700
-        - primary_800
-    - primary_dark
-        - primary_dark_600
-        - primary_dark_630
-        - primary_dark_660
-        - primary_dark_700
-        - primary_dark_800
-    - brand
-        - brand_500
-    - brand_new
-        - brand_new
-        - brand_new_500
+    - `primary`
+        - `primary_500`
+        - `primary_600`
+        - `primary_630`
+        - `primary_660`
+        - `primary_700`
+        - `primary_800`
+    - `primary_dark`
+        - `primary_dark_600`
+        - `primary_dark_630`
+        - `primary_dark_660`
+        - `primary_dark_700`
+        - `primary_dark_800`
+    - `brand`
+        - `brand_500`
+    - `brand_new`
+        - `brand_new`
+        - `brand_new_500`
 7. Go back and disable Force Disable Module.
 8. Disable Advanced Settings and re-enable it.
 9. Restart Aliucord.
