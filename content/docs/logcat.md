@@ -2,7 +2,7 @@
 date = '2026-08-30T16:16:50-05:00'
 draft = false
 title = 'How to make a Logcat'
-weight = 4
+weight = 5
 +++
 
 **Note:** You will need a computer, if you don't have one, read [this](https://pastebin.com/pNhXwhrd) instead.

@@ -2,7 +2,7 @@
 date = '2026-08-30T16:21:01-05:00'
 draft = false
 title = 'UserPFP/BG Guide'
-weight = 5
+weight = 6
 +++
 
 ## UserPFP
